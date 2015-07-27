@@ -101,6 +101,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>bfeb9819-ea58-4680-a5f8-140b41e2dfd8</ProjectGuid>
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
   </PropertyGroup>
   <PropertyGroup>
     <DefaultReferenceGroup>Implicit (Multi-Device Apps)</DefaultReferenceGroup>
